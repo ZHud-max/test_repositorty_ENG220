@@ -1,5 +1,5 @@
-num = (input("N = "));
+num = (input("N = "))
 if n%2 != 0:
-  print("Odd");
+  print("Odd")
 else:
-  print("Even");
+  print("Even")
